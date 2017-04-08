@@ -17,6 +17,8 @@ html, body {
 
 img{
   float:right;
+  display: inline;
+  clear: both;
 }
 
 .header{
