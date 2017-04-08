@@ -37,7 +37,8 @@ img{
 }
 
 h2{
-  margin-bottom:80px;
+  margin-bottom:0px;
+  text-align:left;
 }
 
 .footer{
@@ -50,7 +51,7 @@ h2{
 .nav {
   list-style-type: none;
   text-align:right;
-  margin-bottom:120px;
+  margin-bottom:0px;
 }
 
 .nav li {
