@@ -2,7 +2,7 @@ body{
   background-color: none;
   font-size: 30px;
   font-family: sans-serif;
-  background: url("LA street.jpg");
+  background-image: url("LA street.jpg");
 }
 .section{
     font-family: Verdana;
