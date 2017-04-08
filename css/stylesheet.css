@@ -37,7 +37,7 @@ img{
 }
 
 h2{
-  padding:20px;
+  margin-bottom:20px;
 }
 
 .footer{
@@ -49,10 +49,9 @@ h2{
 
 .nav {
   list-style-type: none;
-  margin: 0;
   padding:0;
   text-align:right;
-  bottom:20px;
+  margin-bottom:20px;
 }
 
 .nav li {
