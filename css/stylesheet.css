@@ -1,7 +1,11 @@
 body{
-  background-color: blue;
+  background-color: lightblue;
   font-size: 30px;
-  font-family: Verdana;
+  font-family: sansserif;
 }
-
+.section{
+    font-family:verdana;
+    border: 3px dashed green;
+    font-size:10px;
+}
 
