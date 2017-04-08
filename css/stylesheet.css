@@ -9,6 +9,10 @@ html, body {
   background-size: cover;
 }
 
+.section{
+  border: 2px solid green;
+}
+
 .header{
   background-color:#33F3FF;
   height:30px;
@@ -28,6 +32,6 @@ html, body {
   font-weight: 600;
   font-size: 20px;
   text-transform: uppercase;
-  float:center;
+  text-align:center;
   padding:10px;
   }
