@@ -2,16 +2,6 @@ body{
   font-size: 30px;
   font-family: sans-serif;
   background-image: url("lastreet.jpg");
-  background-position: center;
 }
-.section{
-    font-family: Verdana;
-    border: 3px dashed green;
-    font-size:10px;
-}
-.options{
-  border:2px solid red;
-  position: inline;
-  border-radius: 5%;
-}
+
 
