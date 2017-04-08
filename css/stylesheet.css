@@ -13,7 +13,7 @@ html, body {
   background-color:#33F3FF;
   height:30px;
   border-bottom: 3px solid red;
-  padding:20px;
+  padding:10px;
 }
 
 .nav {
@@ -28,4 +28,6 @@ html, body {
   font-weight: 600;
   font-size: 20px;
   text-transform: uppercase;
+  float:center;
+  padding:10px;
   }
