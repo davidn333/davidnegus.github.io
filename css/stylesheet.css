@@ -57,6 +57,7 @@ h2{
   margin-bottom:15px;
   position:relative;
   display:inline;
+  float:right;
 }
 
 .nav li {
