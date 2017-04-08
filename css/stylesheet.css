@@ -3,10 +3,10 @@ html, body {
   padding: 0;
 }
 
-.main{
+/*.main{
   background-image: url("../lastreet.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 .section{
@@ -35,6 +35,9 @@ img{
   border-bottom: 3px solid red;
   padding:10px;
 }
+
+/*h2{
+  */
 
 .footer{
   background-color:#33F3FF;
