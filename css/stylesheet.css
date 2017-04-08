@@ -1,13 +1,8 @@
-html, body{
-  height:100%;
-  width:100%;
-}
-
 .main{
   background-image: url("../lastreet.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: center top;
   height: 800px;
   width: 1200px;
 }
