@@ -24,9 +24,9 @@ html, body {
 
 img{
   float:right;
-  display: inline-block;
+  display: inline;
   margin:20px
-  clear:both;
+  clear:right;
 }
 
 .header{
@@ -60,5 +60,4 @@ h2{
   font-weight: 600;
   font-size: 20px;
   text-transform: uppercase;
-  padding:20px;
-  }
+    }
