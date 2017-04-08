@@ -1,11 +1,14 @@
 body{
   background-color: lightblue;
   font-size: 30px;
-  font-family: sansserif;
+  font-family: sans-serif;
 }
 .section{
-    font-family:verdana;
+    font-family: Verdana;
     border: 3px dashed green;
     font-size:10px;
+}
+.options{
+  border:2px solid red;
 }
 
