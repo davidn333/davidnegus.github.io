@@ -11,6 +11,12 @@ html, body {
 
 .section{
   border: 2px solid green;
+  margin:20px;
+  
+}
+
+img{
+  float:right;
 }
 
 .header{
