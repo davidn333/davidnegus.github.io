@@ -1,9 +1,8 @@
 body{
-  background-color: none;
   font-size: 30px;
   font-family: sans-serif;
   background-image: url('/LA street.jpg');
-  background-position: float;
+  background-position: center;
 }
 .section{
     font-family: Verdana;
