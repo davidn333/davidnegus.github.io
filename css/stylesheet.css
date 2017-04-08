@@ -50,7 +50,9 @@ h2{
 .nav {
   list-style-type: none;
   margin: 0;
+  padding:0;
   text-align:right;
+  bottom:20px;
 }
 
 .nav li {
@@ -60,4 +62,5 @@ h2{
   font-weight: 600;
   font-size: 20px;
   text-transform: uppercase;
-    }
+  padding:20px;
+  }
