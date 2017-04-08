@@ -54,7 +54,7 @@ h2{
 .nav {
   /*list-style-type: none;*/
   text-align:right;
-  margin-bottom:0;
+  margin-bottom:15px;
   position:relative;
 }
 
