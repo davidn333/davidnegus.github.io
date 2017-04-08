@@ -12,17 +12,21 @@ html, body {
 .section{
   border: 2px solid green;
   margin:20px;
+  background-color:orange;
   
 }
 
 .content{
-  height:700px
+  height:700px;
+  border: 2px solid green;
+  margin:20px;
 }
 
 img{
   float:right;
-  display: inline;
-  padding:20px
+  display: inline-block;
+  margin:20px
+  clear:both;
 }
 
 .header{
