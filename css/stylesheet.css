@@ -10,5 +10,7 @@ body{
 }
 .options{
   border:2px solid red;
+  position: inline;
+  border-radius: 5%;
 }
 
