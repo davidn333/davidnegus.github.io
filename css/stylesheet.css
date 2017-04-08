@@ -11,14 +11,12 @@ html, body {
 
 .header{
   background-color:#33F3FF;
-  padding:10px 10px;
   height:30px;
 }
 
 .nav {
   list-style-type: none;
   margin: 0;
-  padding: 20px 20px;
 }
 
 .nav li {
@@ -30,4 +28,5 @@ html, body {
   margin-right: 25px;
   text-transform: uppercase;
   text-align: right;
+  padding: 10px;
 }
