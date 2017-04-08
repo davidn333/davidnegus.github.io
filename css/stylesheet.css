@@ -12,6 +12,8 @@ html, body {
 .header{
   background-color:#33F3FF;
   height:30px;
+  border-bottom: 3px solid #33B5FF;
+  padding:20px
 }
 
 .nav {
@@ -27,6 +29,5 @@ html, body {
   font-size: 20px;
   margin-right: 25px;
   text-transform: uppercase;
-  text-align: right;
-  padding: 10px;
+  float:right;
 }
