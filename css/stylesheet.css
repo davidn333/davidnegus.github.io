@@ -39,7 +39,7 @@ img{
 h2{
   margin:auto;
   text-align:left;
-  position:relative;
+  position:fixed;
   
 }
 
@@ -50,12 +50,12 @@ h2{
   padding:10px;
 }
 
-/*.nav {
+.nav {
   list-style-type: none;
   text-align:right;
   margin:0px;
   position:relative;
-}*/
+}
 
 .nav li {
   color: #fff;
