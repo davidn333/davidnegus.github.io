@@ -40,7 +40,7 @@ img{
 h2{
   margin:0;
   text-align:left;
-  position:relative;
+  position:absolute;
   
 }
 
@@ -55,7 +55,7 @@ h2{
   /*list-style-type: none;*/
   text-align:right;
   margin-bottom:auto;
-  /*position:relative;*/
+  position:relative;
 }
 
 .nav li {
