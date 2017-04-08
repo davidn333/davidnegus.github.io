@@ -18,7 +18,7 @@ html, body {
 .nav {
   list-style-type: none;
   margin: 0;
-  padding: 20px 0;
+  padding: 20px 20px;
 }
 
 .nav li {
@@ -29,5 +29,5 @@ html, body {
   font-size: 20px;
   margin-right: 25px;
   text-transform: uppercase;
-  text-align: left;
+  text-align: right;
 }
