@@ -15,10 +15,14 @@ html, body {
   
 }
 
+.section:nth-of-type(2){
+  height:700px
+}
+
 img{
   float:right;
-  display: inline-block;
-  clear: right;
+  display: inline;
+  padding:20px
 }
 
 .header{
@@ -30,7 +34,7 @@ img{
 
 .footer{
   background-color:#33F3FF;
-  height:30px;
+  height:70px;
   border-top: 3px solid red;
   padding:10px;
 }
