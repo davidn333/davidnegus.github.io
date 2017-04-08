@@ -12,8 +12,8 @@ html, body {
 .header{
   background-color:#33F3FF;
   height:30px;
-  border-bottom: 3px solid #33B5FF;
-  padding:20px
+  border-bottom: 3px solid red;
+  padding:20px;
 }
 
 .nav {
@@ -27,7 +27,5 @@ html, body {
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 20px;
-  margin-right: 25px;
   text-transform: uppercase;
-  float:right;
-}
+  }
