@@ -18,8 +18,8 @@
 .nav {
   list-style-type: none;
   text-align:right;
-  margin-bottom:40px;
   position:relative;
+  position:bottom right;
   
   
 }
