@@ -3,14 +3,14 @@ body{
   padding:0;
 }
 
-.background{
+/*.background{
   background-image: url("../sothebyshouse1.jpg");
   background-repeat: no-repeat;
   background-size: 110% 110%;
   height:620px;    
   background-attachment: relative;
 }
-
+*/
 .background2{
   background-image: url("../househills.jpg");
   background-repeat: no-repeat;
@@ -45,14 +45,14 @@ body{
   width:100%;
  }
 
-.nav li {
+/*.nav li {
   color: white;
   display: inline;
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size: 20px;
   text-transform: uppercase;
-  padding:10px;
+  padding:10px 5px;
   margin-left:20px;
   }
 
@@ -64,3 +64,4 @@ li {
     border: 3px solid white;
   border-radius:5px;
 }
+*/
