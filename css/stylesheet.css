@@ -6,6 +6,22 @@
   background-attachment: relative;
 }
 
+.background2{
+  background-image: url("../househills.jpg");
+  background-repeat: no-repeat;
+  background-size: 110% 110%;
+  height:620px;    
+  background-attachment: relative;
+}
+
+.background3{
+  background-image: url("../mountainslake.jpg");
+  background-repeat: no-repeat;
+  background-size: 110% 110%;
+  height:620px;    
+  background-attachment: relative;
+}
+
 
 /*
 .footer{
