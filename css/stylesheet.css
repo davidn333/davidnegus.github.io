@@ -38,11 +38,12 @@ img{
     font-size:30px;
     display:inline;
     margin-bottom:25px;
-  position:relative;
+    position:relative;
+  clear:both;
+  
  }
 
 .nav {
-  list-style-type: none;
   text-align:center;
   position:fixed;
   background-color:white;
