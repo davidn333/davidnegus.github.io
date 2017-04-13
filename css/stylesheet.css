@@ -38,6 +38,7 @@ img{
     font-size:30px;
     display:inline;
     margin-bottom:25px;
+  position:relative;
  }
 
 .nav {
