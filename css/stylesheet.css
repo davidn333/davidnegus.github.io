@@ -1,3 +1,8 @@
+body{
+  margin:0;
+  padding:0;
+}
+
 .background{
   background-image: url("../sothebyshouse1.jpg");
   background-repeat: no-repeat;
@@ -34,11 +39,9 @@
 .nav {
   list-style-type: none;
   text-align:right;
-  position:relative;
-  bottom: 0;
-  
-  
-}
+  position:fixed;
+  background-color:#EEF3F5;
+ }
 
 .nav li {
   color: #fff;
@@ -47,7 +50,7 @@
   font-weight: 600;
   font-size: 20px;
   text-transform: uppercase;
-  padding:10px;
+  padding-left:20px;
   }
 
 li a:hover{
@@ -55,6 +58,6 @@ li a:hover{
 }
 
 li {
-    border: 1px solid #bbb;
-  border-radius:50%;
+    border: 1px solid black;
+  border-radius:5px;
 }
