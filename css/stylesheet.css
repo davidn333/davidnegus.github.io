@@ -27,9 +27,16 @@ img{
   border-radius:5px;
 }
 
+.hobby{
+  font-family: 'Raleway';
+    font-style:italic;
+    font-weight:normal;
+    font-size:15px;
+}
+
 .nav {
   list-style-type: none;
-  text-align:right;
+  text-align:center;
   position:fixed;
   background-color:#EEF3F5;
   bottom:0;
