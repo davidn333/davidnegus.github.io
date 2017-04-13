@@ -19,18 +19,7 @@ html, body {
   
 }
 
-.content{
-  height:700px;
-  border: 2px solid green;
-  margin:20px;
-}
 
-img{
-  float:right;
-  display: inline;
-  margin:20px
-  clear:right;
-}
 
 .header{
   background-color:#33F3FF;
