@@ -9,11 +9,7 @@ html, body {
   position: fixed;
   background-size: cover;
 }
-.main{
-  /*background-image: url("../lastreet.jpg");*/
-  background-repeat: no-repeat;
-  background-size: cover;
-}
+
 
 .section{
   border: 2px solid green;
