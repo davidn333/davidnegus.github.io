@@ -6,10 +6,10 @@ html, body {
 .background{
   background-image: url("../sothebyshouse1.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   height:1400px;
   width:100%;  
-  background-position: center center;
+  
   background-attachment: fixed;
 }
 
@@ -18,7 +18,7 @@ html, body {
   background-color:#33F3FF;
   height:30px;
   border-bottom: 3px solid red;
-  padding:10px;
+  
   white-space:nowrap;
 }
 
@@ -33,7 +33,7 @@ h2{
   background-color:#33F3FF;
   height:70px;
   border-top: 3px solid red;
-  padding:10px;
+  
 }
 
 .nav {
