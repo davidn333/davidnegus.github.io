@@ -33,3 +33,7 @@
   text-transform: uppercase;
   padding:10px;
   }
+
+li:hover{
+    background-color: #111;
+}
