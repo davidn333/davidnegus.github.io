@@ -3,29 +3,14 @@ body{
   padding:0;
 }
 
-/*.background{
-  background-image: url("../sothebyshouse1.jpg");
-  background-repeat: no-repeat;
-  background-size: 110% 110%;
-  height:620px;    
-  background-attachment: relative;
-}
-*/
-.background2{
-  background-image: url("../househills.jpg");
+.background{
+  background-image: url("../snowtrees.jpg");
   background-repeat: no-repeat;
   background-size: 110% 110%;
   height:620px;    
   background-attachment: relative;
 }
 
-.background3{
-  background-image: url("../mountainslake.jpg");
-  background-repeat: no-repeat;
-  background-size: 110% 110%;
-  height:620px;    
-  background-attachment: relative;
-}
 
 
 /*
@@ -35,6 +20,11 @@ body{
   border-top: 3px solid red;
   
 }*/
+
+img{
+  size:contain;
+  border-radius:5px;
+}
 
 .nav {
   list-style-type: none;
