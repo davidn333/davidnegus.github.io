@@ -28,17 +28,18 @@ img{
 }
 
 .hobby{
-  font-family: 'Raleway';
+  font-family: 'Montez';
     font-style:italic;
     font-weight:normal;
     font-size:15px;
+    padding-bottom:5px;
 }
 
 .nav {
   list-style-type: none;
   text-align:center;
   position:fixed;
-  background-color:#EEF3F5;
+  background-color:white;
   bottom:0;
   width:100%;
  }
