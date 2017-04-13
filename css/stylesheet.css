@@ -3,6 +3,9 @@ html, body {
   padding: 0;
 }
 
+.background{
+  background-image: url("http://imagescdn.gabriels.net/reno/imagereader.aspx?imageurl=http%3A%2F%2Fm.sothebysrealty.com%2F236i215%2Fxdnjr5h1z98vmgjbwhym4zbr10i215&option=N&w=1024&permitphotoenlargement=false")
+}
 .main{
   /*background-image: url("../lastreet.jpg");*/
   background-repeat: no-repeat;
