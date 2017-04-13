@@ -1,7 +1,7 @@
 .background{
   background-image: url("../sothebyshouse1.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   height:700px;
   width:100%;    
   background-attachment: relative;
