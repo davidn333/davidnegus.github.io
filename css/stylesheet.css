@@ -25,13 +25,14 @@ img{
   width:20px;
   height:20px;
   border-radius:5px;
+  margin:15px;
 }
 
 .hobby{
-  font-family: 'Montez';
+    font-family: 'Montez';
     font-style:italic;
     font-weight:normal;
-    font-size:15px;
+    font-size:30px;
     padding-bottom:5px;
 }
 
@@ -40,7 +41,7 @@ img{
   text-align:center;
   position:fixed;
   background-color:white;
-  bottom:0;
+  top:0;
   width:100%;
  }
 
