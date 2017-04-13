@@ -6,8 +6,10 @@ html, body {
 .background{
   background-image: url("../sothebyshouse1.jpg");
   background-repeat: no-repeat;
-  position: relative;
+  position: fixed;
   background-size: cover;
+  height:900px;
+  
 }
 
 
