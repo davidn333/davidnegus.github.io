@@ -29,7 +29,6 @@ img{
   margin-left:15px;
   display:inline;
   position:relative;
-  clear:both;
 }
 
 .hobby{
@@ -39,8 +38,7 @@ img{
     font-size:30px;
     display:inline;
     position:relative;
-    clear:both;
-    bottom:10px;
+    bottom:5px;
   
  }
 
@@ -65,7 +63,7 @@ img{
     display: inline;
     float:right;
     margin-right:20px;
-    top:10px;
+    top:5px;
 
 }
 
