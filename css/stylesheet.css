@@ -29,6 +29,7 @@ img{
   margin-left:15px;
   display:inline;
   position:relative;
+  top:5px;
 }
 
 .hobby{
@@ -38,8 +39,7 @@ img{
     font-size:30px;
     display:inline;
     position:relative;
-    bottom:5px;
-  
+      
  }
 
 .nav {
