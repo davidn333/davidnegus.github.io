@@ -39,8 +39,9 @@ img{
     font-weight:normal;
     font-size:30px;
     display:inline;
-    position:absolute;
+    position:relative;
     clear:both;
+  white-space:nowrap;
   
  }
 
@@ -51,19 +52,17 @@ img{
   top:0;
   width:100%;
   height:50px;
-  white-space:nowrap;
- }
+}
 
 .menu {
     width: 35px;
     height: 5px;
     background-color: black;
-    margin: auto 10px auto auto;
-    
+    margin: 6px 0;  
 }
 
 .dropdown {
-    position: absolute;
+    position: relative;
     display: inline;
     float:right;
     margin-right:20px;
