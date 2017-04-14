@@ -55,7 +55,7 @@ img{
     width: 35px;
     height: 5px;
     border:1px solid black
-    border-radius:5px;
+    border-radius:10px;
     background-color:black;
     margin: 6px 0;  
 }
@@ -65,10 +65,11 @@ img{
     display: inline;
     float:right;
     margin-right:20px;
+    margin-left:20px;
     top:5px;
     border-left: 1px solid #E8EDEF;
     cursor: pointer;
-   
+     
 }
 
 
