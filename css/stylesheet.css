@@ -30,7 +30,6 @@ img{
   display:inline;
   position:relative;
   clear:both;
-  margin-top:10px;
 }
 
 .hobby{
@@ -41,7 +40,7 @@ img{
     display:inline;
     position:relative;
     clear:both;
-  white-space:nowrap;
+    bottom:10px;
   
  }
 
@@ -66,6 +65,7 @@ img{
     display: inline;
     float:right;
     margin-right:20px;
+    top:10px;
 
 }
 
