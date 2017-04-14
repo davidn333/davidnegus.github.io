@@ -54,6 +54,14 @@ img{
   white-space:nowrap;
  }
 
+.menu {
+    width: 35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+  float:right;
+}
+
 .dropbtn {
     background-color: #4CAF50;
     color: white;
@@ -65,7 +73,8 @@ img{
 
 .dropdown {
     position: relative;
-    display: inline-block;
+    display: inline;
+    float:right;
 
 }
 
