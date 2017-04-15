@@ -35,9 +35,9 @@ img{
     font-style:italic;
     font-weight:normal;
     font-size:30px;
-    /*display:inline;
+    display:inline;
     position:relative;
-    margin:auto*/
+    margin:auto
 }
 
 .heading{
@@ -81,7 +81,7 @@ img{
 
 
 .dropdown {
-    position: relative;
+    position: fixed;
     display: inline-block;
     float:right;
     top:0;
