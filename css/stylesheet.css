@@ -41,7 +41,8 @@ img{
 }
 
 .heading{
-  display:inline;
+  /*display:inline;*/
+  left:25px;
   position:relative;
   margin:auto;
 }
