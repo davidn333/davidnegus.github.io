@@ -35,13 +35,9 @@ img{
     font-style:italic;
     font-weight:normal;
     font-size:30px;
-    display:inline;
+    /*display:inline;*/
     position:relative;
-}
-
-.heading{
-  position:relative;
-  margin:auto;
+    margin:auto
 }
 
 .nav {
@@ -141,6 +137,7 @@ li {
   top:200px;
   position:relative;
   padding-bottom:3px;
+  padding-top:3px;
 }
 
 h1{
