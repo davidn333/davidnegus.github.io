@@ -41,9 +41,7 @@ img{
 
 .heading{
   position:relative;
-  left:25px;
-  clear:both;
-  white-space:nowrap;
+  margin:auto;
 }
 
 .nav {
@@ -141,7 +139,7 @@ li {
   border-radius:5px;
   top:200px;
   position:relative;
-  padding-top:5px;
+  padding:5px 0;
 }
 
 h1{
