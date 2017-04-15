@@ -80,7 +80,7 @@ img{
     position: relative;
     display: inline-block;
     float:right;
-  clear:right;
+    top:0;
 }
 
 .dropdown-content {
@@ -140,7 +140,7 @@ li {
   border-radius:5px;
   top:200px;
   position:relative;
-  padding-bottom:5px;
+  padding-bottom:3px;
 }
 
 h1{
