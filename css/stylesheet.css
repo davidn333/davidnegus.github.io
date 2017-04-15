@@ -39,7 +39,7 @@ img{
     font-size:30px;
     display:inline;
     position:relative;
-  align-content:center;
+    justify-content:center;
 }
 
 .nav {
