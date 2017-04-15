@@ -42,7 +42,7 @@ img{
 
 .heading{
   display:inline;
-  left:20px;
+  padding-left:25px;
   position:relative;
   margin:auto;
   white-space:nowrap;
