@@ -39,7 +39,7 @@ img{
     font-size:30px;
     display:inline;
     position:relative;
-    justify-content:center;
+    
 }
 
 .nav {
@@ -48,6 +48,7 @@ img{
   top:0;
   width:100%;
   height:50px;
+  justify-content:center;
 }
 
 .threebars {
