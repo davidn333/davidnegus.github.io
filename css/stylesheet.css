@@ -42,6 +42,8 @@ img{
 .heading{
   position:relative;
   left:25px;
+  clear:both;
+  white-space:nowrap;
 }
 
 .nav {
@@ -139,9 +141,10 @@ li {
   border-radius:5px;
   top:200px;
   position:relative;
+  padding-top:5px;
 }
 
 h1{
   font-family:'Raleway';
-  /*padding:16px*/
+  
 }
