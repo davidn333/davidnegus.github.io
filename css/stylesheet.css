@@ -42,9 +42,7 @@ img{
 
 .heading{
   display:inline;
-  /*padding-left:40px;*/
   position:relative;
-  /*margin-left:40px;*/
   left:75px;
 }
 
@@ -76,7 +74,6 @@ img{
     top:5px;
     border-left: 1px solid #E8EDEF;
     cursor: pointer;
-     
 }
 
 
