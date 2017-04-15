@@ -41,10 +41,11 @@ img{
 }
 
 .heading{
-  /*display:inline;*/
-  left:25px;
+  display:inline;
+  left:20px;
   position:relative;
   margin:auto;
+  white-space:nowrap;
 }
 
 .nav {
