@@ -39,7 +39,8 @@ img{
     font-size:30px;
     display:inline;
     position:relative;
- }
+  align-content:center;
+}
 
 .nav {
   position:fixed;
