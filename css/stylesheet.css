@@ -94,7 +94,7 @@ img{
     
 }
 
-.menu:hover .dropdown-content {
+.dropdown:hover .dropdown-content {
     display: none;
 }
 
