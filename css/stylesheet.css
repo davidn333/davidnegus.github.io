@@ -78,7 +78,7 @@ img{
 
 .dropdown {
     position: relative;
-    display: inline;
+    display: block;
     float:right;
     top:0;
 }
@@ -93,7 +93,7 @@ img{
     z-index:1;
 }
 
-.dropdown:hover .dropdown-content {
+.menu:hover .dropdown-content {
     display: block;
 }
 
