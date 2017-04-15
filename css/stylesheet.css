@@ -76,13 +76,13 @@ img{
 }
 
 
-.dropdown {
+/*.dropdown {
     position: relative;
     display: block;
     float:right;
     top:0;
 }
-
+*/
 .dropdown-content {
     display: none;
     position: relative;
@@ -94,7 +94,7 @@ img{
 }
 
 .menu:hover .dropdown-content {
-    display: block;
+    display: relative;
 }
 
 
