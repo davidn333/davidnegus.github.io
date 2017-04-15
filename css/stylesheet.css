@@ -35,9 +35,9 @@ img{
     font-style:italic;
     font-weight:normal;
     font-size:30px;
-    display:inline;
+    /*display:inline;
     position:relative;
-    margin:auto
+    margin:auto*/
 }
 
 .heading{
@@ -45,7 +45,7 @@ img{
   padding-left:25px;
   position:relative;
   margin-left:25px;
-  
+  left:25px;
 }
 
 .nav {
