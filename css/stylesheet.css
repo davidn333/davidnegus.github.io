@@ -78,7 +78,7 @@ img{
 
 .dropdown {
     position: relative;
-    display: absolute;
+    display:inline-block;
     float:right;
     
 }
