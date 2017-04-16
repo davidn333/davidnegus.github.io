@@ -73,13 +73,12 @@ img{
     top:5px;
     border-left: 1px solid #E8EDEF;
     cursor: pointer;
-    z-index:1;
 }
 
 
 .dropdown {
     position: relative;
-    display: inline;
+    display: inline-block;
     float:right;
     top:0;
 }
