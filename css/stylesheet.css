@@ -61,7 +61,7 @@ img{
     border:1px solid black;
     border-radius:10px;
     background-color:black;
-    padding: 5px 0;  
+    margin: 5px 0;  
 }
 
 .menu {
@@ -70,7 +70,7 @@ img{
     float:right;
     padding-right:20px;
     padding-left:20px;
-    top:5px;
+    padding-top:5px;
     border-left: 1px solid #E8EDEF;
     cursor: pointer;
 }
