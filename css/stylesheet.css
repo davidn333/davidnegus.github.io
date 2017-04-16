@@ -68,7 +68,7 @@ img{
     position: relative;
     display: inline;
     float:right;
-    margin-right:20px;
+    padding-right:20px;
     padding-left:20px;
     top:5px;
     border-left: 1px solid #E8EDEF;
