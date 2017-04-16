@@ -84,7 +84,7 @@ img{
 }
 
 .dropdown-content {
-    display: block;
+    display: none;
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
@@ -94,7 +94,7 @@ img{
     z-index:1;
 }
 
-.dropdown:hover.dropdown-content {
+.dropdown:hover .dropdown-content {
     display: block;
 }
 
