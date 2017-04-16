@@ -68,7 +68,7 @@ img{
     position: relative;
     display: inline;
     float:right;
-    padding: 5px 20px;
+    padding: 5px 20px 7px;
     border-left: 1px solid #E8EDEF;
     cursor: pointer;
 }
