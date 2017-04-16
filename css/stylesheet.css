@@ -94,7 +94,7 @@ img{
     z-index:1;
 }
 
-.menu:hover.dropdown-content {
+.dropdown:hover.dropdown-content {
     display: block;
 }
 
