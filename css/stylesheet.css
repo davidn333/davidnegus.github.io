@@ -7,7 +7,7 @@ body{
   background-image: url("../snowtrees.jpg");
   background-repeat: no-repeat;
   background-size:cover;
-  height:800px;    
+  height:1000px;    
 }
 
 /*
@@ -37,6 +37,7 @@ li{
   position:relative;
   top:0px;
   text-align:center;
+  justify-content:center;
 }
 
 .heading{
@@ -79,6 +80,7 @@ li{
     position: relative;
     display:inline-block;
     float:right;
+  
     
 }
 
