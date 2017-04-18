@@ -7,8 +7,8 @@ body{
   background-image: url("../snowtrees.jpg");
   background-repeat: no-repeat;
   background-size:contain;
-  
-  
+  width:100%;
+    
 }
 
 /*
@@ -22,6 +22,7 @@ body{
 img{
   width:60px;
   height:60px;
+  bottom:3px;
   border-radius:5px;
   margin-right:15px;
   margin-left:15px;
