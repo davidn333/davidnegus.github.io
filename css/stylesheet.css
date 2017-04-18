@@ -34,8 +34,7 @@ li{
 
 .hobby{
   display:flex;
-  flex-wrap:wrap;
-  text-align:center;
+  
   justify-content:center;
 }
 
@@ -75,7 +74,7 @@ li{
 .dropdown {
     display:inline;
     float:right;
-    position:absolute;
+    position:relative;
     
 }
 
