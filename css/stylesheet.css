@@ -75,10 +75,9 @@ li{
 
 
 .dropdown {
-    display:inline-block;
+    display:flex;
     float:right;
     position:relative;
-    top:0;
     
 }
 
@@ -134,10 +133,11 @@ h2{
   font-family:'Raleway';
   font-size:28px;
   letter-spacing:2px;
-  text-align:center;
-  
-   
-  
+  text-align:center; 
+}
+
+.sport{
+  position:absolute;
 }
 
 .sportpic{
