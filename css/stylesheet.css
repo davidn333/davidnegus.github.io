@@ -127,3 +127,18 @@ img{
 h1{
   font-family:'Raleway';
 }
+
+.backgroundtwo{
+  height:800px;
+  background-image: url("../images/newskihero.jpg");
+  background-repeat: no-repeat;
+  background-size: 110% 110%;
+}
+
+.backgroundthree{
+  height:800px;
+  background-image: url("../images/skires.jpg");
+  background-repeat: no-repeat;
+  background-size: 110% 110%;
+}
+
