@@ -32,7 +32,7 @@ li{
 }
 
 .hobby{
-  display:inline;
+  display:flex;
   position:relative;
 }
 
@@ -72,7 +72,7 @@ li{
 
 
 .dropdown {
-    position: absolute;
+    position: relative;
     display:inline-block;
     float:right;
     
