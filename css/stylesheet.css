@@ -31,10 +31,11 @@ li{
     display:inline;
 }
 
-/*.hobby{
+.hobby{
   display:flex;
   position:relative;
-}*/
+  justify-content:center;
+}
 
 .heading{
   display:inline;
@@ -133,7 +134,7 @@ h2{
   text-align:center;
 }
 
-.sportspic{
+.sportpic{
   float:right;
   display:block;
   height:200px;
