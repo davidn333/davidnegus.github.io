@@ -6,9 +6,9 @@ body{
 .background{
   background-image: url("../snowtrees.jpg");
   background-repeat: no-repeat;
-  width:100%;
-  background-size: contain;
-  background-attachment: relative;
+  background-size:contain;
+  
+  
 }
 
 /*
