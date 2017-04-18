@@ -29,13 +29,13 @@ li{
     font-weight:normal;
     font-size:30px;
     display:inline;
-    text-shadow: 1px 1px 2px;
+    
 }
 
 .hobby{
   display:flex;
   position:relative;
-  justify-content:center;
+  top:0px;
   text-align:center;
 }
 
