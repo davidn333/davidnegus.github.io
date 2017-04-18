@@ -41,7 +41,7 @@ li{
 .heading{
   display:inline;
   position:relative;
-  left:50px;
+  
 }
 
 .nav {
@@ -143,6 +143,7 @@ h2{
   height:800px;
   background-image: url("../images/newskihero.jpg");
   background-repeat: no-repeat;
+  background-size:cover;
   
 }
 
@@ -150,6 +151,6 @@ h2{
   height:800px;
   background-image: url("../images/skires.jpg");
   background-repeat: no-repeat;
-  
+  background-size:cover;
 }
 
