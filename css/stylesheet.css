@@ -21,14 +21,18 @@ body{
 .headerpic{
   width:60px;
   height:60px;
+  display:inline;
 }
 
 li{
     font-family: 'Michroma';
     font-weight:normal;
     font-size:30px;
-    
-    
+}
+
+.hobby{
+  display:inline;
+  position:absolute;
 }
 
 .heading{
@@ -45,7 +49,6 @@ li{
   width:100%;
   height:50px;
   text-align:center;
-  display:inline;
 }
 
 .threebars {
