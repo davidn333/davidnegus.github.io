@@ -7,8 +7,7 @@ body{
   background-image: url("../snowtrees.jpg");
   background-repeat: no-repeat;
   background-size:cover;
-  
-    
+  height:auto;    
 }
 
 /*
@@ -30,13 +29,13 @@ img{
   position:relative;
 }
 
-.hobby{
+li{
     font-family: 'Michroma';
     font-weight:normal;
     font-size:30px;
     display:inline;
     position:relative;
-    margin:auto
+    
 }
 
 .heading{
