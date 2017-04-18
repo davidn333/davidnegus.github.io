@@ -6,8 +6,8 @@ body{
 .background{
   background-image: url("../snowtrees.jpg");
   background-repeat: no-repeat;
-  background-size:contain;
-  width:100%;
+  background-size:cover;
+  
     
 }
 
