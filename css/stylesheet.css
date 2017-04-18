@@ -66,18 +66,17 @@ li{
     position: relative;
     display: inline;
     float:right;
-    padding: 5px 20px 7px;
+    top:0;
+    /*padding: 5px 20px 7px;*/
     border-left: 1px solid #E8EDEF;
     cursor: pointer;
 }
 
 
 .dropdown {
-    
     display:inline-block;
     float:right;
-  
-    
+    top:0;
 }
 
 .dropdown-content {
