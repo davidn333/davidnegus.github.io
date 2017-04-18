@@ -135,10 +135,9 @@ h1{
 h2{
   font-family:'Raleway';
   font-size:28px;
-  border:1px solid;
   letter-spacing:2px;
   text-align:center;
-  top:20px;
+  
   
 }
 
@@ -150,6 +149,7 @@ h2{
   width:200px;
   border-radius:10px;
   padding:30px;
+  right:20px
   
 }
 
