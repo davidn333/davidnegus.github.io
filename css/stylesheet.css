@@ -34,7 +34,7 @@ img{
     font-weight:normal;
     font-size:30px;
     display:inline;
-    position:absolute;
+    position:relative;
     margin:auto
 }
 
