@@ -6,7 +6,8 @@ body{
 .background{
   background-image: url("../snowtrees.jpg");
   background-repeat: no-repeat;
-      
+  width:100%;
+  background-size: contain;
   background-attachment: relative;
 }
 
@@ -19,8 +20,8 @@ body{
 }*/
 
 img{
-  width:70px;
-  height:70px;
+  width:60px;
+  height:60px;
   border-radius:5px;
   margin-right:15px;
   margin-left:15px;
@@ -33,7 +34,7 @@ img{
     font-weight:normal;
     font-size:30px;
     display:inline;
-    position:relative;
+    position:absolute;
     margin:auto
 }
 
