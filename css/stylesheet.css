@@ -28,6 +28,7 @@ li{
     font-family: 'Michroma';
     font-weight:normal;
     font-size:30px;
+    display:inline;
 }
 
 .hobby{
@@ -71,7 +72,7 @@ li{
 
 
 .dropdown {
-    position: relative;
+    position: absolute;
     display:inline-block;
     float:right;
     
