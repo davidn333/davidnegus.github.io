@@ -10,13 +10,6 @@ body{
   height:800px;    
 }
 
-/*
-.footer{
-  background-color:#33F3FF;
-  height:70px;
-  border-top: 3px solid red;
-  
-}*/
 
 .sub{
   float:left;
@@ -66,7 +59,7 @@ ul a{
 .topic{
   display:flex;  
   justify-content:center;
-  position:inline;
+  position:absolute;
   
 }  
   
@@ -100,8 +93,7 @@ ul a{
 
 
 .dropdown {
-    display:inline;
-    
+    display:inline;    
     position:absolute;
     top:0;
     right:0;    
