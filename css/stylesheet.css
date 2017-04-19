@@ -57,7 +57,7 @@ ul a{
 }
 
 .topic{
-  display:flex;  
+  display:inline;  
   justify-content:center;
   position:relative;
   
