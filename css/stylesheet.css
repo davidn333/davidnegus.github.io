@@ -12,9 +12,10 @@ body{
 
 
 .sub{
-  float:left;
   width:50px;
   height:50px;
+  margin:0;
+  padding:0;
 }
 
 
@@ -58,7 +59,7 @@ ul a{
 
 .topic{
   display:inline;  
-  justify-content:center;
+  margin:auto;
   position:relative;
   
 }  
