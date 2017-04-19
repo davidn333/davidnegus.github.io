@@ -59,7 +59,7 @@ ul a{
 .topic{
   display:flex;  
   justify-content:center;
-  position:absolute;
+  position:relative;
   
 }  
   
