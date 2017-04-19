@@ -33,6 +33,11 @@ li{
     color:black;
 }
 
+ul a{
+  text-decoration:none;
+  color:black;
+}
+
 .hobby{
   display:flex;  
   justify-content:center;
