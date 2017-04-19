@@ -169,8 +169,10 @@ h2{
 .space{
   height:400px;
   width:90%;
+  margin:auto;
   margin-bottom:50px;
   border-bottom:1px solid grey;
+  
 }
 
 
