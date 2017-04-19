@@ -14,7 +14,7 @@ body{
 .sub{
   width:50px;
   height:50px;
-  margin-left:300px;
+  margin-left:350px;
   padding:0;
 }
 
@@ -227,5 +227,9 @@ h2{
 .logofoot{
   height:300px;
   width:300px;
+}
+
+.logodiv{
+  position:relative;
   margin:auto;
 }
