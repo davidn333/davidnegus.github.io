@@ -58,15 +58,14 @@ ul a{
 .homebtn{
   display:flex;  
   justify-content:flex-start;
-  padding:0;
-  margin:0;
+  
 }
 
 .topic{
   display:flex;  
   justify-content:center;
-  padding:0;
-  margin:0;
+  position:inline;
+  
 }  
   
 .nav {
@@ -100,7 +99,7 @@ ul a{
 
 .dropdown {
     display:inline;
-    float:right;
+    
     position:absolute;
     top:0;
     right:0;    
