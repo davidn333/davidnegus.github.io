@@ -36,10 +36,7 @@ li{
 ul a{
   text-decoration:none;
   color:black;
-  padding:0;
-  margin:0;
-  display:inline;
-  position:relative;
+  top:0;
 }
 
 .hobby{
