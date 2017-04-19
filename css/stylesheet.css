@@ -72,7 +72,7 @@ ul a{
   top:0;
   width:100%;
   height:50px; 
-  flex-wrap:wrap;
+  
 }
 
 .threebars {
@@ -220,9 +220,9 @@ h2{
 }
 
 .footer{
-  height:400px;
+  height:350px;
   background-color:#CED3D5;
-  align-items:center;
+  justify-content:center;
   display:flex;
   flex-wrap:wrap;
   
@@ -236,5 +236,5 @@ h2{
 .footerdiv{
   position:relative;
   display:inline;
-  margin:auto;
+  
 }
