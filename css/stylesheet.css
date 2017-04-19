@@ -222,7 +222,7 @@ h2{
 .footer{
   height:350px;
   background-color:#CED3D5;
-  justify-content:center;
+  
   display:flex;
   flex-wrap:wrap;
   
@@ -236,5 +236,5 @@ h2{
 .footerdiv{
   position:relative;
   display:inline;
-  
+  margin:auto;
 }
