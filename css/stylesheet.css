@@ -29,6 +29,8 @@ li{
     font-weight:normal;
     font-size:30px;
     display:inline;
+    text-decoration:none;
+    color:black;
 }
 
 .hobby{
