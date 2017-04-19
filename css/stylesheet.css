@@ -165,6 +165,14 @@ h2{
   opacity:1;
 }
 
+.space{
+  height:400px;
+  width:90%;
+  padding-bottom:50px;
+  border-bottom:1px solid grey;
+}
+
+
 .backgroundtwo{
   height:800px;
   background-image: url("../images/newskihero.jpg");
