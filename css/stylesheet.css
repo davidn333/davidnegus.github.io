@@ -225,6 +225,7 @@ h2{
   align-items:center;
   display:flex;
   flex-wrap:wrap;
+  
 }
 
 .logofoot{
@@ -235,5 +236,5 @@ h2{
 .footerdiv{
   position:relative;
   display:inline;
-  
+  margin:auto;
 }
