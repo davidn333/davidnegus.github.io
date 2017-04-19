@@ -223,6 +223,8 @@ h2{
   height:400px;
   background-color:#CED3D5;
   align-items:center;
+  display:flex;
+  flex-wrap:wrap;
 }
 
 .logofoot{
@@ -230,8 +232,8 @@ h2{
   width:300px;
 }
 
-.logodiv{
+.footerdiv{
   position:relative;
-  margin:auto;
+  display:inline;
   
 }
