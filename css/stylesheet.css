@@ -39,6 +39,7 @@ ul a{
   padding:0;
   margin:0;
   display:inline;
+  position:relative;
 }
 
 .hobby{
