@@ -32,7 +32,7 @@ li{
     text-decoration:none;
     padding:0;
     margin:0;
-    
+    color:black;
 }
 
 .hobby{
@@ -179,5 +179,9 @@ h2{
   background-image: url("../images/skires.jpg");
   background-repeat: no-repeat;
   background-size:cover;
+}
+
+.backgroundfour{
+  height:800px;
 }
 
