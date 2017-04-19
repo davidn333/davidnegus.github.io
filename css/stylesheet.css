@@ -58,7 +58,8 @@ ul a{
 }
 
 .topic{
-  display:inline;  
+  display:flex; 
+  justify-content:center;
   margin:auto;
   position:relative;
   
@@ -212,5 +213,12 @@ h2{
 
 .backgroundfour{
   height:800px;
+  background-image: url("../images/sothebyshouse1.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
 }
 
+.footer{
+  height:500px;
+  background-color:#CED3D5;
+}
