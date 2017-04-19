@@ -29,6 +29,7 @@ li{
     font-weight:normal;
     font-size:30px;
     display:flex;
+  flex-wrap:wrap;
     text-decoration:none;
     color:black;
 }
