@@ -56,15 +56,13 @@ ul a{
 .homebtn{
   display:flex;  
   justify-content:flex-start;
-  margin:0;
-  padding:0;
+  
 }
 
 .topic{
   display:flex; 
   justify-content:center;
-  margin:0;
-  padding:0;  
+   
 }  
   
 .nav {
