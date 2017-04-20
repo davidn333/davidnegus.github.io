@@ -63,10 +63,9 @@ ul a{
 .topic{
   display:flex; 
   justify-content:center;
-  padding:0;
-  margin:0;
+  
   position:relative;
-  align-content:center;
+  
 }  
   
 .nav {
