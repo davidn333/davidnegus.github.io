@@ -223,7 +223,9 @@ h2{
 .spacethree img{
   height:300px;
   width:300px;
-  margin:30px;
+  margin:60px;
+  border: 3px outset;
+  box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
 }
 
 .spacethree img:hover{
