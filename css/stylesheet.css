@@ -238,11 +238,12 @@ h2{
   width:300px;
   height:50px;
   margin:0 40px;
-  border:1px solid black;
+  border:3px solid black;
+  text-align:center;
 }
 
 h3{
-  text-align:center;
+  font-family:'Quicksand';
 }
 
 .backgroundtwo{
