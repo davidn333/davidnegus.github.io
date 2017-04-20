@@ -34,7 +34,7 @@ li{
     font-family: 'Michroma';
     font-weight:normal;
     font-size:30px;
-    display:inline;
+    display:flex;
     
 }
 
@@ -42,8 +42,8 @@ ul a{
   text-decoration:none;
   color:black;
   top:0;
-  display:flex;/*
-  justify-content:flex-start;*/
+  display:flex;
+  
 }
 
 .hobby{/*main index*/
@@ -56,7 +56,6 @@ ul a{
 .homebtn{
   display:flex;  
   justify-content:flex-start;
-  flex-wrap:nowrap;
   margin:0;
   padding:0;
 }
@@ -64,7 +63,8 @@ ul a{
 .topic{
   display:flex; 
   justify-content:center;
-    
+  margin:0;
+  padding:0;  
 }  
   
 .nav {
