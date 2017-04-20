@@ -55,8 +55,9 @@ ul a{
 
 .homebtn{
   display:inline;
-  position:relative;
-  float:left;
+  position:absolute;
+  left:0;
+  top:0;
   /*justify-content:flex-start;*/
   padding:0;
   margin:0;
