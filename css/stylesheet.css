@@ -293,11 +293,12 @@ h3{
 .error{
   background-color:#ECEDEE;
   position:relative;
+  text-align:center;
 }
 
 .error p{
   position:absolute;
-  top: 50%;
+  top: 40%;
   left:50%;
   margin-right: -50%;
   transform: translate(-50%, -50%) 
