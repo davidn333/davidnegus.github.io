@@ -289,3 +289,7 @@ h3{
   display:inline;
   margin:auto;
 }
+
+.error{
+  text-align:center;
+}
