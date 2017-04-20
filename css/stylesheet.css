@@ -64,12 +64,13 @@ ul a{
   display:flex; 
   justify-content:center;
   padding:0;
-  
+  margin:0;
  }  
   
 .nav {
   position:fixed;
   display:flex;
+  justify-content:center;
   z-index:1;
   background-color:white;
   top:0;
