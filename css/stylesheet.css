@@ -178,7 +178,6 @@ h2{
 
 .sportpic{
   float:right;
-  clear:both;
   display:inline;
   height:250px;
   width:250px;
@@ -247,6 +246,7 @@ h3{
   font-size:30px;
   margin:auto;
   vertical-align:middle;
+  font-weight:200;
 }
 
 .backgroundtwo{
