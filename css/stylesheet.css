@@ -211,19 +211,20 @@ h2{
 }
 
 .spacethree{
-  height:400px;
+  height:450px;
   width:90%;
   margin: 50px auto;
   border-bottom:1px solid grey;
   border-top:1px solid grey;  
   display:flex;
   justify-content:center;
+  flex-wrap:wrap;
 }
 
 .spacethree img{
   height:300px;
   width:300px;
-  margin:40px 40px 0 40px;
+  margin:50px 40px 0 40px;
   border: 3px outset;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
 }
@@ -232,13 +233,19 @@ h2{
   opacity:0.8;
 }
 
+.res{
+  display:flex;
+  width:300px;
+  height:50px;
+  margin:0 40px;
+}
+
 .backgroundtwo{
   height:800px;
   background-image: url("../images/newskihero.jpg");
   background-repeat: no-repeat;
   background-size:cover;
-  
-  
+    
 }
 
 .backgroundthree{
@@ -257,8 +264,7 @@ h2{
 
 .footer{
   height:350px;
-  background-color:#CED3D5;
-  
+  background-color:#CED3D5;  
   display:flex;
   flex-wrap:wrap;
   
