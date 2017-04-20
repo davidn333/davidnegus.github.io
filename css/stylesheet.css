@@ -293,5 +293,8 @@ h3{
 .error{
   text-align:center;
   background-color:#ECEDEE;
-  vertical-align:middle;
+}
+
+.error p{
+  top: 50%;
 }
