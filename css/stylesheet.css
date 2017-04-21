@@ -286,22 +286,34 @@ h3{
 }
 
 .footer{
-  height:350px;
+  height:200px;
   background-color:#CED3D5;  
-  display:flex;
-  flex-wrap:wrap;
-  
+  display:flex; 
 }
 
 .logofoot{
-  height:300px;
-  width:300px;
+  float:right;
+}
+
+.logofoot img{
+  height:150px;
+  width:150px;
 }
 
 .footerdiv{
   position:relative;
   display:inline;
-  margin:auto;
+}
+
+.footerdiv ul li{
+  font-family:'Quicksand';
+  font-size:15px;
+  font-weight:100;
+}
+
+.footerdiv ul li:hover{
+  color:white;
+  cursor:pointer;
 }
 
 .end{
