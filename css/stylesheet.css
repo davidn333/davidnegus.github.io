@@ -287,14 +287,15 @@ h3{
 
 .footer{
   height:200px;
-  background-color:#CED3D5;  
+  background-color:#CED3D5;
+  display:flex;
 }
 
 .footer img{
   height:150px;
   width:150px;
-  float:right;
-  display:inline;
+  right:0;
+  top:0;
   position:relative;
 }
 
