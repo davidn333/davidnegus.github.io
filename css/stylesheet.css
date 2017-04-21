@@ -293,6 +293,8 @@ h3{
 
 .logofoot{
   float:right;
+  position:relative;
+  display:flex;
 }
 
 .logofoot img{
