@@ -310,13 +310,13 @@ h3{
   display:flex;
 }
 
-.envelope{
-  color:white;
-  background:black;
+.bar{
+  background-color:green;
 }
 
 .input{
-  background-color:green;
+  border:1px solid white;
+  border-radius:5px;
 }
 
 .newsletter p{
@@ -374,6 +374,11 @@ h3{
   text-decoration: none;
   margin: 5px 2px;
   border-radius: 50%;
+}
+
+.fa-envelope-o{
+  color:white;
+  background:black;
 }
 
 .fa-facebook {
