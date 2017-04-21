@@ -288,21 +288,12 @@ h3{
 .footer{
   height:200px;
   background-color:#CED3D5;  
-  display:flex; 
 }
 
-.logofoot{
-  float:right;
-  position:relative;
-}
-
-.logofoot img{
+.footer img{
   height:150px;
   width:150px;
-}
-
-.footerdiv{
-  position:relative;
+  float:right;
 }
 
 .footerdiv ul li{
