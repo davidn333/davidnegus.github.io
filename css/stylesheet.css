@@ -289,6 +289,7 @@ h3{
   height:200px;
   background-color:#CED3D5;
   display:flex;
+  position:relative;
 }
 
 .footer img{
@@ -296,7 +297,7 @@ h3{
   width:150px;
   right:0;
   top:0;
-  position:relative;
+  position:absolute;
   display:inline;
 }
 
