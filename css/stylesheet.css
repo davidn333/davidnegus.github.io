@@ -281,7 +281,7 @@ h4{
   flex-wrap:wrap;
 }
 
-.spacethree a{
+.spacethree a, .spacethree a:visited{
   color:inherit;
  }
 
