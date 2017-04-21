@@ -310,10 +310,19 @@ h3{
   display:flex;
 }
 
+.envelope{
+  color:white;
+  background:black;
+}
+
+.input{
+  background-color:green;
+}
+
 .newsletter p{
   font-family:'Quicksand';
   font-size:20px;
-  font-weight:400;
+  font-weight:700;
 }
 
 .footer{
