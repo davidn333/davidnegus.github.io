@@ -3,7 +3,7 @@ body{
   padding:0;
 }
 
-/*.mySlides {display:none}*/
+.mySlides {display:none}
 
 /* Slideshow container */
 .slideshow-container {
@@ -50,8 +50,6 @@ body{
 
 /* Fading animation */
 .fade {
-  -webkit-animation-name: fade;
-  -webkit-animation-duration: 1.5s;
   animation-name: fade;
   animation-duration: 1.5s;
 }
