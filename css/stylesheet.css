@@ -281,15 +281,11 @@ h4{
   flex-wrap:wrap;
 }
 
-.spacethree a[href$=png]{
-	border: 0 none;
-	}
-
 .spacethree img{
   height:300px;
   width:300px;
   margin:50px 40px 0 40px;
-  border: 3px outset;
+  border: 0 outset;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
 }
 
