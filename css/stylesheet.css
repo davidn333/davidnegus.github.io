@@ -296,7 +296,7 @@ h3{
   width:150px;
   right:0;
   top:0;
-  position:absolute;
+  position:relative;
   display:inline;
 }
 
