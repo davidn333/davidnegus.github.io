@@ -5,32 +5,18 @@ body{
 
 .mySlides {display:none}
 
+.mySlides img{
+  width:800px;
+  height:600px
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
   margin: auto;
-  
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
+  top:20px;
+  border-radius:10px;
 }
 
 /* The dots/bullets/indicators */
@@ -51,7 +37,7 @@ body{
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 1.5s;
+  animation-duration: 3s;
 }
 
 @keyframes fade {
@@ -310,20 +296,6 @@ h3{
   font-weight:200;
 }
 
-.backgroundtwo{
-  height:800px;
-  background-image: url("../images/newskihero.jpg");
-  background-repeat: no-repeat;
-  background-size:cover;
-    
-}
-
-.backgroundthree{
-  height:800px;
-  background-image: url("../images/skires.jpg");
-  background-repeat: no-repeat;
-  background-size:cover;
-}
 
 .backgroundfour{
   height:800px;
@@ -334,7 +306,7 @@ h3{
 
 .footer{
   height:200px;
-  background-color:#f9f9f9;
+  background-color:#f1f1f1;
   display:flex;
   position:relative;
 }
@@ -385,7 +357,7 @@ h3{
 
 .fa-facebook {
   background: black;
-  color: #CED3D5;
+  color: #f1f1f1;
 }
 
 .fa-facebook:hover {
@@ -394,7 +366,7 @@ h3{
 
 .fa-twitter {
   background: black;
-  color: #CED3D5;
+  color: #f1f1f1;
 }
 
 .fa-twitter:hover {
@@ -403,7 +375,7 @@ h3{
 
 .fa-google {
   background: black;
-  color: #CED3D5;
+  color: #f1f1f1;
 }
 
 .fa-google:hover {
@@ -412,7 +384,7 @@ h3{
 
 .fa-youtube {
   background: black;
-  color: #CED3D5;
+  color: #f1f1f1;
 }
 
 .fa-youtube:hover {
@@ -421,7 +393,7 @@ h3{
 
 .fa-instagram {
   background: black;
-  color: #CED3D5;
+  color: #f1f1f1;
 }
 
 .fa-instagram:hover {
@@ -430,7 +402,7 @@ h3{
 
 .fa-pinterest {
   background: black;
-  color: #CED3D5;
+  color: #f1f1f1;
 }
 
 .fa-pinterest:hover{
@@ -439,7 +411,7 @@ h3{
 
 .fa-snapchat-ghost {
   background: black;
-  color: #CED3D5;
+  color: #f1f1f1;
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
