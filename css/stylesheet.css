@@ -305,6 +305,17 @@ h3{
   background-size:cover;
 }
 
+.newsletter{
+  background-color:grey;
+  display:flex;
+}
+
+.newsletter p{
+  font-family:'Quicksand';
+  font-size:20px;
+  font-weight:400;
+}
+
 .footer{
   height:200px;
   background-color:#f1f1f1;
