@@ -283,6 +283,7 @@ h4{
 
 .spacethree a/*[href$=png]*/ , .spacethree a:visited{
 	border: 0 none;
+	color:inherit;
 	}
 
 .spacethree img{
