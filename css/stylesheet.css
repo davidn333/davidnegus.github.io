@@ -282,8 +282,7 @@ h4{
 }
 
 .spacethree a, .spacethree a:visited{
-  color:inherit;
- text-decoration:none;
+  border:none;
  }
 
 .spacethree img{
