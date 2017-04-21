@@ -283,6 +283,7 @@ h4{
 
 .spacethree a, .spacethree a:visited{
   color:inherit;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
  }
 
 .spacethree img{
