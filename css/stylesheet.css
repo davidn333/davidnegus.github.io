@@ -162,7 +162,7 @@ h2{
 }
 
 .sport{
-  display:flex;
+  display:block;
   position:relative;
   width:200px;
   height:300px;
@@ -187,19 +187,25 @@ h2{
 }
 
 .facts{
-  list-style-image: url('http://images.clipartpanda.com/free-snowflake-clipart-snowflake-md.png');
+  
 }
 
 .facts li{
   font-family:'Raleway';
-  font-size:10px;
+  font-size:20px;
   font-weight:100;
+}
+
+.facts li img{
+  padding-right:10px;
+  height:20px;
+  width:20px;
 }
 
 h4{
   font-family:'Raleway';
-  font-size:12px;
-  font-weight:300;
+  font-size:24px;
+  text-decoration:underline;
 }
 
 .space{
@@ -304,8 +310,6 @@ h3{
 .end{
   background-color:black;
   text-align:center;
-  margin:0;
-  padding:0;
 }
 
 .end p{
@@ -313,6 +317,8 @@ h3{
   font-family:'Raleway';
   letter-spacing:2px;
   font-weight:100;
+  margin:0;
+  padding:0;
 }
 
 .error{
