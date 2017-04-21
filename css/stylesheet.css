@@ -281,9 +281,8 @@ h4{
   flex-wrap:wrap;
 }
 
-.spacethree a/*[href$=png]*/ , .spacethree a:visited{
+.spacethree a[href$=png]{
 	border: 0 none;
-	color:inherit;
 	}
 
 .spacethree img{
