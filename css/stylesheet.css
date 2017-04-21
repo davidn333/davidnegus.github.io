@@ -281,9 +281,9 @@ h4{
   flex-wrap:wrap;
 }
 
-.spacethree a, a:visited{
-  color:inherit;
-}
+.spacethree a{
+  color:none;
+ }
 
 .spacethree img{
   height:300px;
