@@ -294,6 +294,13 @@ h3{
   height:150px;
   width:150px;
   float:right;
+  display:inline;
+  position:relative;
+}
+
+.footerdiv ul{
+  margin:0;
+  padding-top:20px;
 }
 
 .footerdiv ul li{
