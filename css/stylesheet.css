@@ -7,7 +7,8 @@ body{
 
 .mySlides img{
   width:800px;
-  height:600px
+  height:500px;
+  border-radius:10px;
 }
 
 /* Slideshow container */
@@ -15,8 +16,8 @@ body{
   max-width: 1000px;
   position: relative;
   margin: auto;
-  top:20px;
-  border-radius:10px;
+  top:70px;
+  
 }
 
 /* The dots/bullets/indicators */
@@ -37,11 +38,11 @@ body{
 /* Fading animation */
 .fade {
   animation-name: fade;
-  animation-duration: 3s;
+  animation-duration: 2s;
 }
 
 @keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .7} 
   to {opacity: 1}
 }
 
