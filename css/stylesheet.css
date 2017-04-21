@@ -288,13 +288,13 @@ h3{
 .footer{
   height:200px;
   background-color:#CED3D5;  
-  display:flex; 
+  display:inline; 
 }
 
 .logofoot{
   float:right;
   position:relative;
-  display:flex;
+  display:inline;
 }
 
 .logofoot img{
