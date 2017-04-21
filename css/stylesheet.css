@@ -165,26 +165,22 @@ h2{
 }
 
 .sport{
-  position:relative;
-  margin:auto;
-  width:450px;
-  height:80px;
-  top:100px;
-  border:1px solid white;
+  position:flex;
+  
+  width:200px;
+  height:300px;
+  top:50px;
+  border:1px solid black;
   border-radius:5px;
-  background-color: blue;
-  opacity:0.5;
 }
 
-.sportpic{
-  float:right;
-  display:inline;
-  height:250px;
-  width:250px;
+.sportpic{  
+  display:flex;
+  height:300px;
+  width:300px;
   border-radius:10px;
-  top:50px;
-  right:80px;
-  margin:0px 100px;
+  top:50px;  
+  margin:0px 50px;
   position:relative;
   opacity:0.5;  
 }
@@ -206,7 +202,9 @@ h2{
   width:90%;
   margin: 50px auto;
   border-bottom:1px solid grey;
-  border-top:1px solid grey;  
+  border-top:1px solid grey; 
+  display:flex;
+  justify-content:center;
 }
 
 .spacethree{
@@ -288,6 +286,17 @@ h3{
   position:relative;
   display:inline;
   margin:auto;
+}
+
+.end{
+  background-color:black;
+  text-align:center;
+}
+
+.end p{
+  color:white;
+  font-family:'Raleway';
+  letter-spacing:2px;
 }
 
 .error{
