@@ -207,16 +207,17 @@ h2{
   height:300px;
   width:300px;
   border-radius:10px;
-  top:50px;  
-  margin:0px 50px;
+  /*top:50px;*/
+  margin:50px 50px 0;
   position:relative;
   opacity:0.8; 
-  transition: margin-bottom 0.5s;
+  transition: margin-top 1s;
+  transition-timing-function: ease;
 }
 
 .sportpic:hover{
   opacity:1;
-  margin-bottom:10px;
+  margin-top:40px;
 }
 
 .sport p{
