@@ -391,6 +391,14 @@ h3{
   background-color:green;
 }
 
+.mail .fa{
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin-top:20px;
+}
+
 .fa-envelope-o{
   color:white;
   font-size: 30px;
