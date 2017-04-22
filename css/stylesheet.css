@@ -388,25 +388,12 @@ h3{
 .mail{
   position:relative;
   margin-left:20px;
-  background-color:red;
+  padding-top:20px;
 }
-
-i .fa{
-  padding: 10px;
-  font-size: 40px;
-  width: 40px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-  }
 
 .fa-envelope-o{
   color:white;  
-  background:grey;
-  padding: 10px;
-  font-size: 40px;
-  width: 40px;
+  background:grey;  
 }
 
 .fa-facebook {
