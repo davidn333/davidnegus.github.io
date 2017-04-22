@@ -311,11 +311,11 @@ h3{
 }
 
 .bar{  
-  margin-left:20px;
+  margin-left:15px;
 }
 
 .input{
-  border:2px 0 2px 2px solid black;
+  border:2px solid black;
   border-radius:5px;
   margin-top:15px;
   padding-left:10px;
@@ -330,8 +330,9 @@ h3{
 
 .tick{
   height:30px;
-  margin-top:15px;
-  border: 2px 2px 2px 0 solid black;
+  margin-top:12px;
+  border: 2px solid black;
+  background-color:white
 }
 
 .newsletter p{
@@ -393,7 +394,7 @@ h3{
 
 .mail{
   position:relative;
-  margin-left:20px;
+  margin-left:15px;
   background-color:grey;
 }
 
