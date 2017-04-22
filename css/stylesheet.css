@@ -312,11 +312,19 @@ h3{
 
 .bar{
   background-color:green;
+  margin-left:20px;
 }
 
 .input{
-  border:1px solid white;
+  border:1px solid #f9f9f9;
   border-radius:5px;
+  vertical-align:middle;
+  height:22px;
+  width:400px;
+}
+
+.input:focus{
+  outline:none;
 }
 
 .newsletter p{
@@ -376,9 +384,15 @@ h3{
   border-radius: 50%;
 }
 
+.mail{
+  position:relative;
+  margin-left:20px;
+}
+
 .fa-envelope-o{
   color:white;
-  background:black;
+  font-size: 30px;
+  vertical-align:middle;
 }
 
 .fa-facebook {
