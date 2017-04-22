@@ -159,9 +159,13 @@ ul a{
     text-align:center;
     padding: 12px 16px;
     text-decoration: none;
-    display: block;
-    transition-timing-function: ease;
+    display: block;    
 }
+
+.dropdown-content a:active {
+transition-timing-function: ease;
+}
+
 /*Change color of dropdown links on hover */
 .dropdown-content a:hover {
     background: linear-gradient(to right, rgba(0,155,255,0), rgba(0,155,255,1));
@@ -389,7 +393,7 @@ h3{
 .mail{
   position:relative;
   margin-left:20px;
-  padding-top:10px;
+  padding-top:8px;
   background-color:grey;
 }
 
