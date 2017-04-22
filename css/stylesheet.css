@@ -388,11 +388,10 @@ h3{
 .mail{
   position:relative;
   margin-left:20px;
-  background-color:grey;
-  padding-top:20px;
+  background-color:red;
 }
 
-div i .fa{
+i .fa{
   padding: 10px;
   font-size: 40px;
   width: 40px;
@@ -405,6 +404,9 @@ div i .fa{
 .fa-envelope-o{
   color:white;  
   background:grey;
+  padding: 10px;
+  font-size: 40px;
+  width: 40px;
 }
 
 .fa-facebook {
