@@ -162,10 +162,6 @@ ul a{
     display: block;    
 }
 
-.dropdown-content a:active {
-transition-timing-function: ease;
-}
-
 /*Change color of dropdown links on hover */
 .dropdown-content a:hover {
     background: linear-gradient(to right, rgba(0,155,255,0), rgba(0,155,255,1));
@@ -214,11 +210,13 @@ h2{
   top:50px;  
   margin:0px 50px;
   position:relative;
-  opacity:0.8;  
+  opacity:0.8; 
+  transition: margin-bottom 0.5s;
 }
 
 .sportpic:hover{
   opacity:1;
+  margin-bottom:10px;
 }
 
 .sport p{
@@ -393,20 +391,10 @@ h3{
 .mail{
   position:relative;
   margin-left:20px;
-  padding-top:8px;
+  padding-top:7px;
   background-color:grey;
 }
 
-i .fa{
-  padding: 10px;
-  font-size: 40px;
-  width: 40px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 50%;
-}
-  
 .fa-envelope-o{
   color:white;  
   background:grey;  
