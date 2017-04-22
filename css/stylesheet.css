@@ -315,7 +315,7 @@ h3{
 }
 
 .input{
-  border:2px solid black;
+  border:2px 0 2px 2px solid black;
   border-radius:5px;
   margin-top:15px;
   padding-left:10px;
@@ -326,6 +326,12 @@ h3{
 
 .input:focus{
   outline:none;
+}
+
+.tick{
+  height:30px;
+  margin-top:15px;
+  border: 2px 2px 2px 0 solid black;
 }
 
 .newsletter p{
@@ -403,7 +409,7 @@ i .fa{
 
 .fa-envelope-o{
   color:white;  
-  background:black;
+  background:grey;
 }
 
 .fa-facebook {
