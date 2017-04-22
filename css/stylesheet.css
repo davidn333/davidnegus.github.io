@@ -322,6 +322,7 @@ h3{
   height:30px;
   width:500px;
   font-family:'Quicksand';
+  font-weight:normal;
 }
 
 .input:focus{
@@ -391,18 +392,16 @@ h3{
   background-color:green;
 }
 
-.mail .fa{
-  font-size: 30px;
-  width: 30px;
-  text-align: center;
-  text-decoration: none;
-  margin-top:20px;
-}
-
 .fa-envelope-o{
   color:white;
-  font-size: 30px;
+  font-size: 20px;
   background:grey;
+  padding: 10px; 
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
 }
 
 .fa-facebook {
