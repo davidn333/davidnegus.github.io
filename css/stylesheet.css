@@ -3,47 +3,6 @@ body{
   padding:0;
 }
 
-.mySlides {display:none}
-
-.mySlides img{
-  width:800px;
-  height:500px;
-  border-radius:10px;
-}
-
-/* Slideshow container */
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: 70px auto 0;
-  border-radius:10px;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  height: 13px;
-  width: 13px;
-  margin: 5px 3px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 2s;
-}
-
-@keyframes fade {
-  from {opacity: .7} 
-  to {opacity: 1}
-}
 
 .sub{
   height:50px;
@@ -55,6 +14,7 @@ body{
   height:50px;
   margin:0;
   padding:0;
+  color:white;
 }
 
 li{
@@ -111,9 +71,9 @@ ul a{
 .threebars {
     width: 35px;
     height: 4px;
-    border:1px solid black;
+    border:1px solid white;
     border-radius:10px;
-    background-color:white;
+    background-color:black;
     margin: 5px 0;  
 }
 
@@ -163,10 +123,71 @@ ul a{
 
 /*Change color of dropdown links on hover */
 .dropdown-content a:hover {
-    background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1));
+    background: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1));
     background-color: white;
     color:black;
 }
+
+.car{
+  position:relative;
+  background-image: url(/images/evoque.jpg);
+  height:400px;
+}
+
+.cartext{
+  position:absolute;
+  right:0;
+  padding:30px;
+}
+
+.cartext p{
+  font-family:'Quicksand';
+  font-size:40px;
+  font-weight:300px;
+  
+
+.mySlides {display:none}
+
+.mySlides img{
+  width:800px;
+  height:500px;
+  border-radius:10px;
+}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: 70px auto 0;
+  border-radius:10px;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 13px;
+  width: 13px;
+  margin: 5px 3px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@keyframes fade {
+  from {opacity: .7} 
+  to {opacity: 1}
+}
+
 
 .welcome{
   width:300px;
@@ -310,8 +331,9 @@ h3{
 }
 
 .newsletter{
-  background-color:grey;
+  background-color:#008FFF;
   display:flex;
+  border-bottom:1px solid grey;
 }
 
 .bar{  
@@ -340,7 +362,7 @@ h3{
 
 .footer{
   height:200px;
-  background-color:#f1f1f1;
+  background-color:#008FFF;
   display:flex;
   position:relative;
 }
@@ -362,7 +384,7 @@ h3{
 .footerdiv ul li{
   font-family:'Quicksand';
   font-size:15px;
-  font-weight:100;
+  font-weight:200;
   margin-top:5px;
 }
 
@@ -476,7 +498,7 @@ h3{
   font-family:'Raleway';
   letter-spacing:3px;
   font-weight:100;
-  font-size:15px;
+  font-size:10px;
   margin:0;
 }
 
