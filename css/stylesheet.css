@@ -140,6 +140,7 @@ ul a{
   position:absolute;
   right:0;
   padding:30px;
+  text-align:right;
 }
 
 .cartext p{
@@ -147,7 +148,7 @@ ul a{
   font-size:40px;
   font-weight:300px;
   
-
+}
 .mySlides {display:none}
 
 .mySlides img{
