@@ -67,7 +67,7 @@ li{
 
 ul a{
   text-decoration:none;
-  color:black;
+  color:white;
   top:0;
   display:flex;
   
@@ -80,7 +80,7 @@ ul a{
   margin:0;
 }
 
-.homebtn{
+.homebtn{/*tabs*/
   display:inline;
   position:absolute;
   left:0;
@@ -102,11 +102,10 @@ ul a{
   display:flex;
   justify-content:center;
   z-index:1;
-  background-color:#f9f9f9;;
+  background-color:black;
   top:0;
   width:100%;
   height:50px; 
-  border-bottom:1px solid #E8EDEF;
 }
 
 .threebars {
@@ -114,7 +113,7 @@ ul a{
     height: 4px;
     border:1px solid black;
     border-radius:10px;
-    background-color:black;
+    background-color:white;
     margin: 5px 0;  
 }
 
@@ -124,7 +123,7 @@ ul a{
     float:right;
     top:0;
     padding: 5px 20px 7px;
-    border-left: 1px solid #E8EDEF;
+    border-left: 1px solid grey;
     cursor: pointer;
 }
 
@@ -139,7 +138,7 @@ ul a{
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f9f9f9;
+    background-color: black;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     top:50px;
@@ -154,7 +153,7 @@ ul a{
 
 /* Links inside the dropdown */
 .dropdown-content a {
-    color: black;
+    color: white;
     font-family:'Raleway';
     text-align:center;
     padding: 12px 16px;
@@ -164,8 +163,9 @@ ul a{
 
 /*Change color of dropdown links on hover */
 .dropdown-content a:hover {
-    background: linear-gradient(to right, rgba(0,155,255,0), rgba(0,155,255,1));
-    /*background-color: #f1f1f1*/
+    background: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,1));
+    background-color: white;
+    color:black;
 }
 
 .welcome{
@@ -363,6 +363,7 @@ h3{
   font-family:'Quicksand';
   font-size:15px;
   font-weight:100;
+  margin-top:5px;
 }
 
 .footerdiv ul li:hover{
@@ -473,8 +474,9 @@ h3{
 .end p{
   color:white;
   font-family:'Raleway';
-  letter-spacing:2px;
+  letter-spacing:3px;
   font-weight:100;
+  font-size:15px;
   margin:0;
 }
 
