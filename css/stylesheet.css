@@ -71,7 +71,7 @@ ul a{
 .threebars {
     width: 35px;
     height: 4px;
-    border:1px solid white;
+    border:2px solid white;
     border-radius:10px;
     background-color:black;
     margin: 5px 0;  
@@ -131,6 +131,8 @@ ul a{
 .car{
   position:relative;
   background-image: url(/images/evoque.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
   height:400px;
 }
 
