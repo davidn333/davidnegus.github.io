@@ -1,6 +1,14 @@
 var slideIndex = 0;
 showSlides();
 
+function plusSlides(i) {
+  showSlides(slideIndex += i);
+}
+
+function currentSlide(i) {
+  showSlides(slideIndex = i);
+}
+
 function showSlides() {
     var i;
     var slides = document.getElementsByClassName("mySlides");
