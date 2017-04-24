@@ -17,5 +17,3 @@ function showSlides() {
     dots[slideIndex-1].className += " active";
     setTimeout(showSlides, 7000); // Change image every 2 seconds
 };
-
-window.alert("This is my practise website");
