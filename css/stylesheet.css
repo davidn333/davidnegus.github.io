@@ -14,7 +14,7 @@ body{
   height:50px;
   margin:0;
   padding:0;
-  color:white;
+  background-color:white;
 }
 
 li{
@@ -71,9 +71,9 @@ ul a{
 .threebars {
     width: 35px;
     height: 4px;
-    border:2px solid white;
+    border:1px solid white;
     border-radius:10px;
-    background-color:black;
+    background-color:white;
     margin: 5px 0;  
 }
 
@@ -132,8 +132,8 @@ ul a{
   position:relative;
   background-image: url(/images/evoque.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
-  height:400px;
+  background-size: cover;
+  height:600px;
 }
 
 .cartext{
@@ -334,7 +334,7 @@ h3{
 }
 
 .newsletter{
-  background-color:#008FFF;
+  background-color:#ACACAC;
   display:flex;
   border-bottom:1px solid grey;
 }
@@ -365,7 +365,7 @@ h3{
 
 .footer{
   height:200px;
-  background-color:#008FFF;
+  background-color:#ACACAC;
   display:flex;
   position:relative;
 }
@@ -419,12 +419,12 @@ h3{
   position:relative;
   margin-left:20px;
   padding-top:7px;
-  background-color:grey;
+  background-color:#ACACAC;
 }
 
 .fa-envelope-o{
   color:white;  
-  background:grey;  
+  background:#ACACAC;  
 }
 
 .fa-facebook {
@@ -494,6 +494,7 @@ h3{
 .end{
   background-color:black;
   text-align:center;
+  padding:5px;
 }
 
 .end p{
