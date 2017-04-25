@@ -286,6 +286,7 @@ h4{
   border-bottom:1px solid grey;
   border-top:1px solid grey;  
   display:flex;
+  flex-wrap:wrap;
   justify-content:center;
 }
 
@@ -297,7 +298,8 @@ h4{
   border: 0 outset;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.3);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size:100% 100%;
+  text-align:center;
 }
 
 .country{
@@ -306,6 +308,7 @@ h4{
   font-family:'quicksand';
   font-size:30px;
   font-weight:200;
+  color:white;
 }
 
 
