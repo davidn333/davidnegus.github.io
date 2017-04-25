@@ -299,7 +299,6 @@ h4{
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.3);
   background-repeat:no-repeat;
   background-size:100% 100%;
-  text-align:center;
 }
 
 .country{
@@ -309,11 +308,18 @@ h4{
   font-size:30px;
   font-weight:200;
   color:white;
+  width:100%;
+  padding-top:10px;
+  opacity:0;
+  transition:0.5s ease;
 }
 
-
-.spacethree img:hover{/*change for destinations*/
+.text:hover{/*change for destinations*/
   opacity:0.8;
+}
+
+.text:hover .country{
+  opacity:1;
 }
 
 .res{
