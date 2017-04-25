@@ -231,7 +231,6 @@ h2{
 }
 
 .sport{
-  position:absolute;
   display:inline;
   width:200px;
   height:300px;
@@ -333,6 +332,13 @@ h3{
   vertical-align:middle;
   font-weight:200;
 }
+
+#destinations{
+  font-family:'Quicksand';
+  font-size:30px;
+  font-weight:20px;
+}
+  
 
 .newsletter{
   background-color:#ACACAC;
