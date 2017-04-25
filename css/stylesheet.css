@@ -246,7 +246,7 @@ h2{
   width:60%;
   border-radius:10px;
   opacity:0.8;
-  display:inline;
+  display:flex;
   /*transition: margin-top 1s ease;*/
 }
 
