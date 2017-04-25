@@ -139,18 +139,22 @@ ul a{
   font-size:50px;
   font-weight:300px;  
 }
-.mySlides {display:none}
+.mySlides {
+  display:none;
+  height:588px;
+  width:auto;
+}
 
 .mySlides img{
   position:relative;
-  height:600px;
-  width:1200px;
+  height:588px;
+  width:1366px;
 }
 
 /* Slideshow container */
 .slideshow-container {
-  width: 100%;
-  position: relative;
+  width:100%;
+  position:relative;
   margin-top:50px;
 }
 
