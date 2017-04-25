@@ -149,7 +149,7 @@ ul a{
 }
 .mySlides {
   display:none;
-  background-size:cover;
+  background-size:100% 100%;
   background-repeat:no-repeat;
   height:588px;
   width:auto;
@@ -287,38 +287,26 @@ h4{
   border-top:1px solid grey;  
   display:flex;
   justify-content:center;
-  flex-wrap:wrap;
 }
 
-.spacethree img{
+.text {
   height:300px;
   width:300px;
   margin:50px 40px 0 40px;
   border: 0 outset;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.3);
+  background-repeat:no-repeat;
+  background-size:contain;
 }
 
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.spacethree img:hover .middle {
-  opacity: 1;
-}
-
-.text {
-  color: white;
-  font-size: 16px;
-  font-family:'Quicksand';
+.country{
+  text-align:center;
+  position:absolute;
+  font-family:'quicksand';
+  font-size:30px;
   font-weight:200;
-  width:auto;
-  height:auto;
 }
+
 
 .spacethree img:hover{
   opacity:0.8;
