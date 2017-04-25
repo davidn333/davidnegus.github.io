@@ -217,6 +217,7 @@ h2{
   font-family:'Quicksand';
   font-size:37px;
   font-weight:500;
+  margin-top:
 }
 
 .sports{
@@ -338,8 +339,7 @@ h3{
 #destinations, #sportchoice{
   font-family:'Quicksand';
   font-size:30px;  
-  padding:30px;
-  margin:0;
+  padding:40px;
 }  
 
 .newsletter{
