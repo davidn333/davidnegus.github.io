@@ -278,8 +278,7 @@ h4{
 
 .spacethree{
   height:450px;
-  width:90%;
-  margin: 50px auto;
+  margin: 50px 0;
   border-bottom:1px solid grey;
   border-top:1px solid grey;  
   display:flex;
@@ -291,8 +290,7 @@ h4{
   display:flex;
   height:300px;
   width:400px;
-  margin:50px 30px 0 30px;
-  border: 0 outset;
+  margin:50px 20px 0 20px;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.3);
   background-repeat:no-repeat;
   background-size:100% 100%;
@@ -324,7 +322,7 @@ h4{
   display:flex;
   width:400px;
   height:50px;
-  margin:0 30px;
+  margin:0 20px;
   text-align:center;
 }
 
