@@ -141,12 +141,9 @@ ul a{
 }
 .mySlides {
   display:none;
-}
-
-.mySlides img{
-  position:relative;
+  background-size:cover;
   height:588px;
-  width:1366px;
+  width:auto;
 }
 
 /* Slideshow container */
