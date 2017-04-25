@@ -226,12 +226,11 @@ h2{
 .sports{
   height:500px;
   width:auto;
-  display:block;
 }
 
 .sport{
-  display:block;
-  position:relative;
+  position:absolute;
+  display:inline;
   width:200px;
   height:300px;
   top:50px;
@@ -239,17 +238,15 @@ h2{
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
 }
 
-.sportpic{  
+.sportpic{ 
+  position:relative;
   display:inline;
-  height:5l00px;
+  height:450px;
   width:50%;
   border-radius:10px;
-  /*top:50px;*/
-  margin:50px 50px 0;
   position:relative;
   opacity:0.8; 
-  transition: margin-top 1s;
-  transition-timing-function: ease;
+  /*transition: margin-top 1s ease;*/
 }
 
 .sportpic:hover{
@@ -302,7 +299,7 @@ h4{
 }
 
 .country{
-  text-align:center;
+  justify-content:center;
   display:flex;
   position:absolute;
   font-family:'quicksand';
