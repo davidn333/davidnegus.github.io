@@ -226,12 +226,10 @@ h2{
 .sports{
   height:500px;
   width:auto;
-  position:relative;
   border:2px solid black;
 }
 
 .sport{
-  position:absolute;
   display:inline;
   width:200px;
   height:300px;
@@ -241,12 +239,10 @@ h2{
 }
 
 .sportpic{ 
-  position:relative;
   display:inline;
   height:300px;
   width:200px;
   border-radius:10px;
-  position:relative;
   opacity:0.8; 
   /*transition: margin-top 1s ease;*/
 }
