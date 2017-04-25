@@ -214,7 +214,7 @@ ul a{
 
 h2{
   font-family:'Quicksand';
-  font-size:30px;
+  font-size:37px;
   font-weight:500;
 }
 
@@ -224,7 +224,7 @@ h2{
   border:2px solid black;
   position:relative;
   padding:50px;
-  display:flex;
+  display:inline;
 }
 
 .sport{
@@ -233,7 +233,8 @@ h2{
   top:50px;
   background-color: #f9f9f9;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
-  -webkit-transform: rotate(7deg)
+  -webkit-transform: rotate(7deg);
+   position:relative;
 }
 
 .sportpic{
@@ -334,7 +335,8 @@ h3{
 #destinations{
   font-family:'Quicksand';
   font-size:30px;  
-  padding-left:15px;
+  padding:30px;
+  background-color:#BBB;
 }  
 
 .newsletter{
