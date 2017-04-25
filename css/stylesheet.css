@@ -227,9 +227,11 @@ h2{
   height:500px;
   width:auto;
   border:2px solid black;
+  position:relative;
 }
 
 .sport{
+  position:absolute;
   display:inline;
   width:200px;
   height:300px;
