@@ -290,6 +290,7 @@ h4{
 }
 
 .text {
+  display:flex;
   height:300px;
   width:300px;
   margin:50px 40px 0 40px;
@@ -308,7 +309,7 @@ h4{
 }
 
 
-.spacethree img:hover{
+.spacethree img:hover{/*change for destinations*/
   opacity:0.8;
 }
 
