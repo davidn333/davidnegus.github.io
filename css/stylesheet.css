@@ -142,7 +142,9 @@ ul a{
 .mySlides {display:none}
 
 .mySlides img{
-  width:1020px;  
+  left:0;
+  right:0;
+  position:absolute;
   height:600px;
 }
 
@@ -150,7 +152,7 @@ ul a{
 .slideshow-container {
   width: 100%;
   position: relative;
-  top:50px;
+  margin-top:50px;
 }
 
 /* The dots/bullets/indicators */
