@@ -224,7 +224,6 @@ h2{
   border:2px solid black;
   position:relative;
   padding:50px;
-  display:inline;
 }
 
 .sport{
@@ -244,7 +243,8 @@ h2{
   border-radius:10px;
   opacity:0.8;
   float:left;
-  clear:left;
+  /*clear:left;*/
+  display:inline;
   /*transition: margin-top 1s ease;*/
 }
 
