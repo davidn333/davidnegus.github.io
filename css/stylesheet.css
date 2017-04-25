@@ -232,6 +232,11 @@ h2{
   text-align:center; 
 }
 
+.sports{
+  height:500px;
+  width:auto;
+}
+
 .sport{
   display:block;
   position:relative;
@@ -291,15 +296,6 @@ h4{
   border-top:1px solid grey;  
 }
 
-.spacetwo{
-  height:400px;
-  width:90%;
-  margin: 50px auto;
-  border-bottom:1px solid grey;
-  border-top:1px solid grey; 
-  display:flex;
-  justify-content:center;
-}
 
 .spacethree{
   height:450px;
