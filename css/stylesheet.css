@@ -108,6 +108,7 @@ ul a{
     top:50px;
     right:0;
     z-index:1;
+    opacity:0.7;
 }
 
 .dropdown:hover .dropdown-content {
@@ -224,6 +225,7 @@ h2{
   border:2px solid black;
   position:relative;
   padding:50px;
+  display:flex;
 }
 
 .sport{
@@ -337,6 +339,7 @@ h3{
   font-family:'Quicksand';
   font-size:30px;  
   padding:30px;
+  margin:0;
 }  
 
 .newsletter{
