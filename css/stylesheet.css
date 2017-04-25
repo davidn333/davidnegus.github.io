@@ -238,7 +238,7 @@ h2{
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
   -webkit-transform: rotate(7deg);
   position:relative;
-  display:inline;
+  display:flex;
 }
 
 .sportpic{
