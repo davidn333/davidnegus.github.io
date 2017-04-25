@@ -3,6 +3,14 @@ body{
   padding:0;
 }
 
+hr{ 
+    display: block;
+    width:80%;
+    margin:auto;
+    height:2px;
+    border:0;
+    background-color:grey;
+} 
 
 .sub{
   height:50px;
@@ -142,6 +150,7 @@ ul a{
 .mySlides {
   display:none;
   background-size:cover;
+  background-repeat:no-repeat;
   height:588px;
   width:auto;
 }
@@ -207,24 +216,6 @@ ul a{
   to {opacity: 1}
 }
 
-
-.welcome{
-  width:300px;
-  height:120px;
-  margin:auto;
-  text-align:center;
-  background:linear-gradient(45deg, rgba(255,184,115,0.65) 0%,rgba(255,124,189,0.65) 50%,rgba(108,0,153,0.65) 100%);
-  border-radius:5px;
-  top:200px;
-  position:relative;
-  padding-bottom:3px;
-  padding-top:3px;
-}
-
-h1{
-  font-family:'Raleway';  
-}
-
 h2{
   font-family:'Raleway';
   font-size:28px;
@@ -235,10 +226,11 @@ h2{
 .sports{
   height:500px;
   width:auto;
+  display:flex;
 }
 
 .sport{
-  display:block;
+  display:inline;
   position:relative;
   width:200px;
   height:300px;
@@ -248,7 +240,7 @@ h2{
 }
 
 .sportpic{  
-  display:flex;
+  display:inline;
   height:300px;
   width:300px;
   border-radius:10px;
@@ -287,15 +279,6 @@ h4{
   font-weight:300;
   margin:10px 0 20px 10px;
 }
-
-.space{
-  height:400px;
-  width:90%;
-  margin: 50px auto;
-  border-bottom:1px solid grey;
-  border-top:1px solid grey;  
-}
-
 
 .spacethree{
   height:450px;
