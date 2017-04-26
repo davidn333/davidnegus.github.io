@@ -400,9 +400,24 @@ h3{
   font-size:15px;
   font-weight:300;
   margin-top:5px;
+  color:black;
+}
+
+.footerdiv ul a{
+  font-family:'Quicksand';
+  font-size:15px;
+  font-weight:300;
+  margin-top:5px;
+  text-decoration:none;
+  color:black;
 }
 
 .footerdiv ul li:hover{
+  color:white;
+  cursor:pointer;
+}
+
+.footerdiv ul a:hover{
   color:white;
   cursor:pointer;
 }
