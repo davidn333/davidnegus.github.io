@@ -222,7 +222,7 @@ h2{
 
 .sports{
   height:500px;
-  width:auto;
+  width:100%;
   border:2px solid black;
   position:relative;
   padding:50px;
