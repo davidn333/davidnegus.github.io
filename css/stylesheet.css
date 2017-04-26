@@ -66,7 +66,7 @@ ul a{
   position:fixed;
   display:flex;
   justify-content:center;
-  z-index:1;
+  z-index:1000;
   background-color:black;
   top:0;
   width:100%;
@@ -230,8 +230,8 @@ h2{
 }
 
 .sport{
-  width:300px;
-  height:80%;
+  width:350px;
+  height:70%;
   top:50px;
   right:40%;
   background-color: #f9f9f9;
@@ -243,7 +243,7 @@ h2{
 
 .sportpic{
   height:80%;
-  width:60%;
+  width:70%;
   border-radius:10px;
   opacity:0.8;
   display:inline;
