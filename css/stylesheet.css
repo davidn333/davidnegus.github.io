@@ -232,7 +232,7 @@ h2{
 }
 
 .sport{
-  width:300px;
+  max-width:300px;
   height:80%;
   top:50px;
   right:30%;
@@ -262,7 +262,7 @@ h2{
 }*/
 
 .sportimg{
-  right:150px;
+  margin-right:150px;
 }
 
 .sport p{
