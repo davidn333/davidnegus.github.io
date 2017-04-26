@@ -28,7 +28,8 @@ li{
     font-family: 'Michroma';
     font-weight:normal;
     font-size:30px;
-    display:flex;    
+    display:flex;
+    color:white;
 }
 
 ul a{
@@ -261,7 +262,7 @@ h2{
 }*/
 
 .sportimg{
-  right:50%;
+  right:150px;
 }
 
 .sport p{
