@@ -230,15 +230,15 @@ h2{
 }
 
 .sport{
-  width:350px;
-  height:70%;
+  width:320px;
+  height:80%;
   top:50px;
   right:40%;
   background-color: #f9f9f9;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
   -webkit-transform: rotate(7deg);
-  position:relative;  
-  transition: 1s ease;
+  position:relative;    
+  transition: -webkit-transform 1s ease, top 1s ease, right 1s ease;
 }
 
 .sportpic{
@@ -255,7 +255,7 @@ h2{
 }
 
 .sportpic:hover .sport{
-    -webkit-transform: rotate(0deg);
+    -webkit-transform: rotate(7deg);
     top:-50px;
     right:20%
 }
