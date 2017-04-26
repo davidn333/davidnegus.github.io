@@ -263,6 +263,8 @@ h2{
 
 .sportimg{
   right:150px;
+  display:block;
+  position:relative;
 }
 
 .sport p{
