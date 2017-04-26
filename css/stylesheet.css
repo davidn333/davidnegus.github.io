@@ -240,8 +240,7 @@ h2{
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.2);
   -webkit-transform: rotate(7deg);
   -moz-transform: rotate(7deg);
-  position:relative;    
-  transition: transform 1s ease, margin-top 1s ease, margin-right 1s ease;
+  position:relative;  
 }
 
 .sportpic{
@@ -254,13 +253,6 @@ h2{
 
 .sportpic:hover{
   opacity:1;  
-}
-
-.sportpic:hover sport{
-    -webkit-transform: rotate(-7deg);
-    -moz-transform: rotate(-7deg);
-    margin-top:-50px;
-    margin-right:15%;
 }
 
 .sportimg{
@@ -583,6 +575,7 @@ input[type=submit]:hover {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
+    margin-top:50px;
 }
 
 
