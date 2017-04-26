@@ -231,7 +231,7 @@ h2{
 }
 
 .sport{
-  width:320px;
+  width:300px;
   height:80%;
   top:50px;
   right:30%;
@@ -273,14 +273,6 @@ h2{
   height:20px;
   width:20px;
   margin-top:3px;
-}
-
-h4{
-  font-family:'Raleway';
-  font-size:34px;
-  text-decoration:underline;
-  font-weight:300;
-  margin:10px 0 20px 15px;
 }
 
 .spacethree{
