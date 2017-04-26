@@ -225,7 +225,7 @@ h2{
   max-width:100%;
   border:2px solid black;
   position:relative;
-  padding:50px 50px 0 50px;
+  padding:50px;
   display:flex;  
 }
 
