@@ -292,7 +292,7 @@ h2{
   position:relative;
   padding:50px;
   display:flex; 
-  background: linear-gradient(to bottom left, #00CDDB, white);
+  background:#F7F7F7;
 }
 
 .sport{
@@ -405,7 +405,8 @@ h3{
 }  
 
 .newsletter{
-  background-color:#ACACAC;
+  background: #00CDDB;
+  /*background-color:#ACACAC;*/
   display:flex;
   border-bottom:1px solid grey;
 }
@@ -436,7 +437,8 @@ h3{
 
 .footer{
   height:200px;
-  background-color:#ACACAC;
+  /*background-color:#ACACAC;*/
+  background: linear-gradient(to bottom right, #00CDDB, white);
   display:flex;
   position:relative;
 }
