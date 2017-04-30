@@ -311,12 +311,12 @@ h2{
   height:80%;
   width:70%;
   border-radius:10px;
-  opacity:0.8;
+  opacity:1;
   display:inline;  
 }
 
 .sportpic:hover{
-  opacity:1;  
+  opacity:0.9;  
 }
 
 .sportimg{
