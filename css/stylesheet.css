@@ -291,7 +291,8 @@ h2{
   max-width:100%;
   position:relative;
   padding:50px;
-  display:flex;  
+  display:flex; 
+  background: linear-gradient(to bottom left, #00CDDB, white);
 }
 
 .sport{
