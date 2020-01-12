@@ -1,21 +1,57 @@
 var slideIndex = 0;
-showSlides();
+showSlides(slideIndex);
 
-function showSlides() {
-    var i;
+function plusSlides(n) {
     var slides = document.getElementsByClassName("mySlides");
     var dots = document.getElementsByClassName("dot");
-    for (i = 0; i < slides.length; i++) {
-       slides[i].style.display = "none";  
+
+    if (n >= slides.length) {
+        slideIndex = 0;
     }
-    slideIndex++;
-    if (slideIndex> slides.length) {slideIndex = 1}    
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+    }
     for (i = 0; i < dots.length; i++) {
         dots[i].className = dots[i].className.replace(" active", "");
     }
-    slides[slideIndex-1].style.display = "block";  
-    dots[slideIndex-1].className += " active";
-    setTimeout(showSlides, 7000); // Change image every 2 seconds
+    slideIndex += n;
+    slides[slideIndex].style.display = "block";
+    dots[slideIndex].className += " active";
+}
+
+
+function showSlides(n) {
+
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    n = slideIndex;
+
+    n = n + 1;
+    slideIndex++;
+
+    if (n >= slides.length) {
+        slideIndex = 0;
+    }
+
+    if (n < 0) {
+        slideIndex = slides.length - 1;
+    }
+
+    for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+    }
+
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+
+    slides[slideIndex].style.display = "block";
+    dots[slideIndex].className += " active";
+    console.log(n);
+    console.log(slideIndex);
+    
+    setTimeout(showSlides, 4000, slideIndex);
 };
 
 // Get the modal
